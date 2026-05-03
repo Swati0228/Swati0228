@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🎓 Final Year Electrical Engineering @ NIT Hamirpur  
 - 💻 Full Stack Developer (React, Node.js, Express)  
-- 🧠 Strong in Data Structures & Algorithms (800+ problems solved)  
+- 🧠 Strong in Data Structures & Algorithms (1000+ problems solved)  
 - 🎯 Preparing for SDE roles (Targeting high-scale systems)  
 - ⚡ I focus more on problem solving than just building UI  
 
@@ -28,30 +28,34 @@
 
 ## 💼 Featured Projects
 
-### 🔥 DocuGenie – AI Document Assistant  
-> AI-powered document generation + summarization tool  
+### 🔥 Smart Trip Planner 🔗 [GitHub](https://github.com/Swati0228/Ai-Trip-Planner)
 
-- Built full-stack app with AI integration  
-- Supports document editing, export, and file uploads  
-- Focus: Real-world usability + clean UX  
+
+> AI-powered personalized travel planning platform  
+
+Built a full-stack MERN application to generate dynamic travel itineraries based on user budget, location, and preferences
+Integrated Gemini API + third-party APIs for real-time hotel, attractions, and activity data
+Implemented Firebase authentication & real-time database for secure and seamless user experience
+Designed a responsive UI with React + Tailwind, ensuring smooth performance across devices
+---
+
+### 📊 FinSense     🔗 [GitHub](https://github.com/Swati0228/FinSense)
+> Smart budget management & expense tracking application 
+
+Built a full-stack expense tracking system to monitor daily spending and manage budgets efficiently
+Implemented income vs expense categorization with real-time balance updates
+Designed a visual analytics dashboard for insights into spending patterns
+Focus: financial awareness, budgeting discipline, and clean UI/UX
 
 ---
 
-### 📊 CodeTrack – DSA Progress Tracker  
-> Track, analyze, and improve coding performance  
+### 🏥 Doctor Appointment Booking App - 🔗 [GitHub](https://github.com/Swati0228/Doctor-Appointment-Booking-App)
+> Scalable healthcare platform with secure transactions  
 
-- Tracks problem-solving progress & consistency  
-- Visual analytics dashboard  
-- Focus: Data-driven improvement  
-
----
-
-### 🎓 Convocation Portal  
-> End-to-end system for student applications  
-
-- Role-based dashboards (Admin + Student)  
-- QR-based entry system  
-- Real-world workflow implementation  
+Developed a full-stack healthcare system for appointment scheduling and digital health record management
+Integrated JWT authentication for secure user sessions and role-based access
+Implemented Razorpay payment gateway for seamless transactions
+Used Cloudinary for media storage and optimized backend using REST APIs
 
 ---
 
@@ -63,7 +67,7 @@
 ---
 
 ## 🏆 Highlights
-- 🧩 Solved 800+ DSA problems  
+- 🧩 Solved 1000+ DSA problems  
 - 🚀 Built multiple full-stack projects  
 - 💡 Strong in backend logic & system thinking  
 
